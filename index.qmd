@@ -1,6 +1,6 @@
 ---
 title: "PS3"
-subtitle: "Global Climate Models"
+subtitle: "Drought Risk from Climate Models"
 author: CEVE 543 Fall 2025
 due_date: "2025-11-17"
 assigned_date: "2025-10-27"
